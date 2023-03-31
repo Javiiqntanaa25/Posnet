@@ -1,6 +1,9 @@
 # Name
 javadoc and classes from a program of a posnet
 
+# Link to javadoc
+[Link](https://javiiqntanaa25.github.io/javadoc/)
+
 ## Statement
 Se desea implementar la lógica de un dispositivo POSNET que procesa pagos con tarjetas de crédito.
 Las tarjetas de crédito guardan el nombre de la entidad financiera a la que pertenecen (únicamente Birza o CasterMard), el nombre de la entidad bancaria, el número de tarjeta, el saldo disponible y los datos del titular (DNI, nombre, apellido, teléfono y mail). Cada vez que se cree una nueva tarjeta, deberán indicarse todos estos datos.
